@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sondus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sondus\\.nuget\\packages"
+    ]
+  }
+}
